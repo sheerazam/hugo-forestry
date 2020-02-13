@@ -1,6 +1,5 @@
 +++
 description = "fsafsaf"
-draft = true
 id = "NeWProduct2"
 image = ""
 name = "fafasf"
