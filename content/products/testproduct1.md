@@ -1,6 +1,6 @@
 +++
 description = "fsafsaf"
-id = "NeWProduct2"
+id = "NeWProduct"
 image = ""
 name = "hello"
 price = 10
